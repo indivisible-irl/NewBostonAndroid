@@ -1,0 +1,35 @@
+01 - Splash:							Thread, images, sound, delay
+	Splash.java							?? - ??
+	splash.xml
+	
+02 - SimpleCalc:						Basic java, buttons
+	CalcActivity.java					?? - ??
+	activity_calc.xml
+
+03 - Menu:								Auto generated Menu Navigation
+	Menu.java							?? - ??
+	--no xml, just java--
+	
+04 - TextPlay							Text properties, buttons to change, random, switch
+	TextPlay.java						?? - ??
+	text.xml
+
+05 - Email:								Intent, Bundle, permissions(?)
+	Email.java							?? - ??
+	email.xml
+	
+06 - Camera:							Intents, bmp, wallpaper, permissions(?)
+	Camera.java							?? - ??
+	photo.xml
+
+07 - Passing data						Relative Layout, Intents, send/receive info (Strings), 
+	Data.java							?? - 50
+	OpenedClass.java
+	get.xml
+	send.xml
+	
+08 - Menus (menu click options)			Menu display, onCreateOptionsMenu(), theme use and basic intent again. \n\t too
+	Menu.java							51 - 54ish
+	cool_menu.xml
+
+09 - Preferences						xml folder, new arrays (values), pref varieties, calling values (keys)

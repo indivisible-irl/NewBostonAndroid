@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">NewBostonTuts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_starting_point">StartingPoint</string>
+    <string name="total">Your total is 0</string>
+    <string name="title_activity_calc">CalcActivity</string>
+    <string name="calc_b_add">Add one</string>
+    <string name="calc_b_sub">Subtract one</string>
+
+</resources>

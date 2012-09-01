@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<TextView 
+	    android:id="@+id/tv_total"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:text="@string/total"
+	    android:textSize="42dp"
+	/>
+	<Button 
+	    android:id="@+id/b_add"
+	    android:layout_width="250dp"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:text="@string/calc_b_add"
+	    android:textSize="20dp"
+	/>
+	<Button 
+	    android:id="@+id/b_sub"
+	    android:layout_width="250dp"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:text="@string/calc_b_sub"
+	    android:textSize="20dp"
+	/>
+    
+</LinearLayout>
